@@ -1,0 +1,2 @@
+# Water_Quality_Prediction_AICTE_internship
+AICTE-Internship by Edunet Foundation
